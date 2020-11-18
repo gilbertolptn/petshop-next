@@ -3,7 +3,7 @@ import { useState } from 'react';
 function Home(){
     return (
         <div>
-            <h2>Home Page</h2>
+            <h2>Home Page - Testing version</h2>
             <Incrementer />
         </div>)
 }
